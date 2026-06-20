@@ -4,11 +4,10 @@ This is my personal developer portfolio website built using React.js and Vite. T
 
 ## Live Portfolio
 
-Portfolio deployment link will be added after hosting on Vercel.
 
 ## About
 
-I am a Backend / Full Stack Developer with experience in building secure, scalable, and maintainable applications. My technical background includes Java, C#, .NET, React.js, Node.js, Express.js, MongoDB, SQL, Flask, Git, GitHub, and REST API development.
+I am a  Full Stack Developer with experience in building secure, scalable, and maintainable applications. My technical background includes Java, C#, .NET, React.js, Node.js, Express.js, MongoDB, SQL, Flask, Git, GitHub, and REST API development.
 
 ## Technologies Used
 
