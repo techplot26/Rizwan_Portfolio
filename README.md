@@ -1,6 +1,6 @@
 # Rizwan Portfolio
 
-This is my personal developer portfolio website built using React.js and Vite. The portfolio showcases my technical skills, software development projects, resume, and contact details.
+This portfolio presents my professional profile, technical skills, featured software development projects, resume, and contact details.
 
 ## Live Portfolio
 
